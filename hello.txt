@@ -1,1 +1,2 @@
 Hello, I'm learning Git!
+My wife is pretty annoying!
